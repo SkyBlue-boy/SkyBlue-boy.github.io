@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a B.S. student at Hanyang University, majoring in Mathematical Data Science and Artificial Intelligence.
+I am a B.S. student at Hanyang University ERICA, majoring in Mathematical Data Science and Artificial Intelligence.
 
 ## Research Interests
 
