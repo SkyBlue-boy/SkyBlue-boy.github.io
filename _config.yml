@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: YunJun Park
+position: B.S. Student
+affiliation: HanYang University  
+email: pyjun0418 (at) hanyang.ac.kr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,9 +14,9 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/SkyBlue-boy
+linkedin: https://www.linkedin.com/in/yunjun-park-6807a41b0/
+notion: https://cactus-panama-b7c.notion.site/Paper-Review-3452903661438064887fc06a8b93d826?source=copy_link
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
