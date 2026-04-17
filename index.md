@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a B.S. student at Hanyang University, majoring in Mathematical Data Science and Artificial Intelligence.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 3D Vision, 3D Anomaly Detection, Video Anomaly Detection
 
 ## News
 
